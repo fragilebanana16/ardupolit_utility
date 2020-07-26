@@ -1,0 +1,12 @@
+[how to run]
+cd build 
+cmake ..
+make
+./display
+
+[change log] 
+mean value vector type modified to float
+
+
+[verify data]
+refer to the verify.png
